@@ -1,5 +1,5 @@
 # predicting-loan-approval-possibilty
-In this project we have investigated the data mining of customer data in order to create one or more classification models which are capable of accurately identifying  the customers’ segments, those are eligible for loan amount so that they can specifically target these customers. 
+In this project we have mined the customer data in order to create one or more classification models which are capable of accurately identifying  the customers’ segments, those are eligible for loan amount so that they can specifically target these customers. 
 The data used in this project were sourced from the University of California Irvine data repository and are referred to as the dream housing loan dataset and 
 contain information on individuals such as Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others.
 
